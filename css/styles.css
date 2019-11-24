@@ -3,11 +3,11 @@ body {
 }
 
 .container {
-  max-width: 380px;
+  max-width: 390px;
   margin: 0 auto;
   padding: 0 20px;
-  font-size:22px;
-  font-family:Arial, sans-serif;
+  font-size: 23px;
+  font-family: Arial, sans-serif;
 }
 
 .social-widgets {
