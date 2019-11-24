@@ -3,11 +3,11 @@ body {
 }
 
 .container {
-  max-width: 350px;
+  max-width: 380px;
   margin: 0 auto;
   padding: 0 20px;
   font-size:22px;
-  font-family:Tahoma, sans-serif
+  font-family:Arial, sans-serif;
 }
 
 .social-widgets {
@@ -24,7 +24,7 @@ body {
   -moz-transform: translate(500%, 500%);
   -ms-transform: translate(500%, 500%);
   -o-transform: translate(200%, 200%);
-  transform: translate(200%, 1840%);
+  transform: translate(200%, 1760%);
 }
 
 .butt {
