@@ -6,6 +6,8 @@ body {
   max-width: 350px;
   margin: 0 auto;
   padding: 0 20px;
+  font-size:22px;
+  font-family:Tahoma, sans-serif
 }
 
 .social-widgets {
@@ -22,7 +24,7 @@ body {
   -moz-transform: translate(500%, 500%);
   -ms-transform: translate(500%, 500%);
   -o-transform: translate(200%, 200%);
-  transform: translate(200%, 1420%);
+  transform: translate(200%, 1840%);
 }
 
 .butt {
