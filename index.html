@@ -1,8 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 
 <head>
     <link rel="shortcut icon" type="image/x-icom" href="./images/android-icon-48x48.png">
+    <link href="https://fonts.googleapis.com/css?family=Cuprum" rel="stylesheet">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -11,6 +12,59 @@
 </head>
 
 <body>
+    <header>
+        <nav class="dws-menu">
+            <ul>
+                <li><a href="#"><i class="fa fa-"></i>о нас</a></li>
+                <li><a href="#"><i class="fa fa-"></i>GitHub</a></li>
+                <li><a href="#"><i class="fa fa-"></i>Slack</a></li>
+            </ul>
+            <style>
+            header{
+                margin: 0px;
+                margin-left: 300px;
+                font-family: Cuprum, Arial, Helvetica, sans-serif;
+            }
+            .dws-menu *{
+                margin: 0px;
+                padding: 0px;
+            }
+            .dws-menu ul,
+            .dws-menu ol{
+                list-style: none;
+            }
+            .dws-menu > ul{
+                display: flex;
+                justify-content: none;
+            }
+            .dws-menu > ul li a{
+                display: block;
+                background: #218294;
+                padding: 15px 30px 15px 40px;
+                font-size: 22px;
+                color: white;
+                text-decoration: none;
+                text-transform: uppercase;
+            }
+            .dws-menu > ul li{
+                position: relative;
+                border-right: 1px solid #fff;
+            }
+            .dws-menu > ul li > a i.fa{
+                position: absolute;
+                top: 15px;
+                left: 12px;
+                font-size: 18px;
+            }
+            .dws-menu > ul li:first-child{
+                border-left: 1px solid #fff;
+            }
+            .dws-menu > ul li:last-child{
+                border-right: 1px solid #fff;
+            }
+            </style>
+        </nav>
+    </header>
     <img src="./images/capture-20191112-173255.png" width="100%" />
     <main>
         <div class="container" class="output">
