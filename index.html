@@ -22,7 +22,7 @@
             <style>
             header{
                 margin: 0px;
-                margin-left: 300px;
+                margin-left: 0px;
                 font-family: Cuprum, Arial, Helvetica, sans-serif;
             }
             .dws-menu *{
@@ -40,15 +40,16 @@
             .dws-menu > ul li a{
                 display: block;
                 background: #218294;
-                padding: 15px 30px 15px 40px;
-                font-size: 22px;
+                padding: 17px 30px 17px 40px;
+                font-size: 25px;
                 color: white;
                 text-decoration: none;
                 text-transform: uppercase;
+                transition: all 0.3s ease;
             }
             .dws-menu > ul li{
                 position: relative;
-                border-right: 1px solid #fff;
+                border-right: 1px solid #218294;
             }
             .dws-menu > ul li > a i.fa{
                 position: absolute;
@@ -57,10 +58,15 @@
                 font-size: 18px;
             }
             .dws-menu > ul li:first-child{
-                border-left: 1px solid #fff;
+                border-left: 300px solid #218294;
             }
             .dws-menu > ul li:last-child{
-                border-right: 1px solid #fff;
+                border-right: 1210px solid #218294;
+            }
+            .dws-menu li a:hover{
+                background: none;
+                color: #454547;
+                transition: all 0.3s ease;
             }
             </style>
         </nav>
