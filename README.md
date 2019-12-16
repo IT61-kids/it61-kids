@@ -13,5 +13,5 @@
 https://app.slack.com/client/TPRNBLKQB/CPQD3F1NW
 <h2>📑 Сайт сообщества</h2>
 https://danielpetelin.github.io/it61_kids/
-<h2> Сообщество в Scratch</h2>
+<h2>😺 Сообщество в Scratch</h2>
 https://scratch.mit.edu/studios/25539671/projects/
