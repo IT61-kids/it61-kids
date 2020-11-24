@@ -13,6 +13,6 @@
 <h2> 📱 Наш чат в Slack </h2>
 https://app.slack.com/client/TPRNBLKQB/CPQD3F1NW
 <h2> 📑 Сайт сообщества </h2>
-https://danielpetelin.github.io/it61_kids/
+https://it61-kids.github.io/it61-kids/
 <h2> 😺 Сообщество в Scratch </h2>
 https://scratch.mit.edu/studios/25539671/projects/
